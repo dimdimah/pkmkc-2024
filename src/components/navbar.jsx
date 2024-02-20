@@ -10,7 +10,6 @@ export default function Navbar() {
           width={27}
         />
         <h1 className="text-xl font-bold">MacaEdu</h1>
-        <h2 className="ml-[50px]">Belajar</h2>
         <Link to="/products" className="ml-4">
           Informasi
         </Link>
